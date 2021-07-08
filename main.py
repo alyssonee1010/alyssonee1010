@@ -1,8 +1,6 @@
 """" i tried really hard to put it in LAN but i couldn't until now, i think i might keep trying
-it would resolve some problems of the game, really love this course, and hope i can do another
-courses with you guys, to develop my python and any other programming language i might study in
-the future, i couldn't also, hide the cards of the players from other players, cause to do that
-i needed to have a Lan game working
+it would resolve some problems of the game, i couldn't also, hide the cards of the players from 
+other players, cause to do that i needed to have a Lan game working, or not, im not sure
 """
 
 import random
